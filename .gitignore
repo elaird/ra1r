@@ -1,2 +1,6 @@
 *~
 ensemble/old
+ensemble/*.aux
+ensemble/*.tex
+ensemble/*.log
+ensemble/*.pdf
